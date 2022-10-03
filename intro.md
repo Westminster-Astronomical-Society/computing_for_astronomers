@@ -1,5 +1,14 @@
 # Welcome to your Jupyter Book
 
+
+```{figure} ./images/JupiterVista_JunoGill_3688.jpg
+---
+width: 100%
+---
+Image Credit: NASA/JPL-Caltech/SwRI/MSSS, Processing: Kevin M. Gill
+```
+
+
 This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
