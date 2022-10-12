@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# An example Jupyter Book
 
 
 ```{figure} ./images/JupiterVista_JunoGill_3688.jpg
